@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./44kbxzh.png"  alt="Kiruhi Setup" />
 
-  # Kiruhi Setup
+  # dotfiles
 
   **Fast Setup**  
 </div>
