@@ -1,0 +1,10 @@
+{
+  "editor.fontFamily": "JetBrains Mono",
+  "editor.fontSize": 14,
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+  "terminal.integrated.fontFamily": "JetBrains Mono",
+  "files.autoSave": "afterDelay",
+  "workbench.colorTheme": "Default Dark+",
+  "editor.minimap.enabled": false
+}

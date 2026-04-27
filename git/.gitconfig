@@ -1,0 +1,23 @@
+[user]
+  name = YourName
+  email = you@example.com
+
+[core]
+  editor = code --wait
+  autocrlf = input
+
+[init]
+  defaultBranch = main
+
+[alias]
+  st = status
+  co = checkout
+  br = branch
+  cm = commit -m
+  lg = log --oneline --graph --all
+
+[pull]
+  rebase = false
+
+[push]
+  default = simple

@@ -1,0 +1,15 @@
+[window]
+opacity = 0.95
+padding.x = 10
+padding.y = 10
+
+[font]
+normal.family = "JetBrains Mono"
+size = 12.5
+
+[colors.primary]
+background = "#0d1117"
+foreground = "#c9d1d9"
+
+[scrolling]
+history = 10000
