@@ -23,5 +23,5 @@ curl -fsSL https://raw.githubusercontent.com/korayozkan/dotfiles/main/scripts/se
 
 <div align="center">
 
-MIT © [KiruhiHub](https://github.com/KiruhiHub)  
+MIT © [Koray Ozkan](https://github.com/korayozkan)  
 </div>
