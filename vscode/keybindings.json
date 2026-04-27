@@ -6,5 +6,67 @@
   {
     "key": "ctrl+p",
     "command": "workbench.action.quickOpen"
+  },
+
+  // ===== EDITING =====
+  {
+    "key": "ctrl+d",
+    "command": "editor.action.addSelectionToNextFindMatch"
+  },
+  {
+    "key": "ctrl+shift+l",
+    "command": "editor.action.selectHighlights"
+  },
+  {
+    "key": "alt+up",
+    "command": "editor.action.moveLinesUpAction"
+  },
+  {
+    "key": "alt+down",
+    "command": "editor.action.moveLinesDownAction"
+  },
+  {
+    "key": "ctrl+/",
+    "command": "editor.action.commentLine"
+  },
+
+  // ===== FILE NAVIGATION =====
+  {
+    "key": "ctrl+shift+e",
+    "command": "workbench.view.explorer"
+  },
+  {
+    "key": "ctrl+shift+f",
+    "command": "workbench.view.search"
+  },
+  {
+    "key": "ctrl+shift+g",
+    "command": "workbench.view.scm"
+  },
+
+  // ===== TERMINAL =====
+  {
+    "key": "ctrl+shift+`",
+    "command": "workbench.action.terminal.new"
+  },
+  {
+    "key": "ctrl+k ctrl+`",
+    "command": "workbench.action.terminal.kill"
+  },
+
+  // ===== QUICK DEV =====
+  {
+    "key": "ctrl+shift+b",
+    "command": "workbench.action.tasks.build"
+  },
+  {
+    "key": "f5",
+    "command": "workbench.action.debug.start"
+  },
+
+  // ===== FORMAT =====
+  {
+    "key": "shift+alt+f",
+    "command": "editor.action.formatDocument"
   }
 ]
