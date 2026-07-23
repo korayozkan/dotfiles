@@ -4,6 +4,7 @@
   # dotfiles
 
   **Fast Setup**  
+  This project was created using artificial intelligence
 </div>
 
 
